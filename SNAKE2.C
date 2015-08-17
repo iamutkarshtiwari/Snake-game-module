@@ -217,7 +217,7 @@ delay(100);
 
 
 settextstyle(DEFAULT_FONT, HORIZ_DIR, 3);
-      outtextxy(55,320, "YOU FAILED BITCH !!!  ");
+      outtextxy(55,320, "YOU FAILED!!!  ");
 
 settextstyle(DEFAULT_FONT, HORIZ_DIR, 2);
       outtextxy(25,360, "WANNA PLAY AGAIN PRESS 'Y' ELSE 'N' ");
